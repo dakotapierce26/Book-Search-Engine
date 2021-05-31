@@ -7,8 +7,6 @@ This is a web page built using React, Node.js, Mongodb, and API for challenge 21
 
 ## Table of Contents (Optional)
 
-If your README is very long, add a table of contents to make it easy for users to find what they need.
-
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
